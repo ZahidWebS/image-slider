@@ -19,8 +19,6 @@ A simple and responsive image slider built using **HTML, CSS, and JavaScript**.
 3. Watch the slider automatically transition through images.
 
 
-## Live Demo
-[View the slider online](https://username.github.io/image-slider/)
 
 ## Author
 Zahid Hussain
